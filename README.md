@@ -1,6 +1,9 @@
 # BigDataAnalysis
+
 End Sem Project
+
 Language Scala
+
 what do each column in the given datasets mean:-
 Date:- the date when the values where recorded
 Open:- Opening price
